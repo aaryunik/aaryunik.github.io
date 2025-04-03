@@ -1,0 +1,17 @@
+/* Existing styles (keep these) */
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Add or update this rule for h1 */
+h1 {
+    font-family: 'JetBrains Mono', monospace; /* Use JetBrains Mono for h1 */
+    font-size: 28px; /* Keep size from Windermont, or adjust */
+    margin: 0;
+}
