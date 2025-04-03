@@ -11,7 +11,13 @@ body {
 
 /* Add or update this rule for h1 */
 h1 {
-    font-family: 'JetBrains Mono', monospace; /* Use JetBrains Mono for h1 */
-    font-size: 28px; /* Keep size from Windermont, or adjust */
-    margin: 0;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 20px; /* Optional: set a size */
+    font-weight: 400; /* Normal weight; try 700 for bold */
+}
+
+h2 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 15px;
+    font-weight: 400;
 }
